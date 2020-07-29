@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Warnes&display=swap");
+/* font-family: 'Warnes', cursive; */
+
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Rowdies", cursive;
+  background-color: yellow;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+img {
+  /*   width: 100%; */
+}
+/* class="header" */
+.header {
+  border: 2px dotted red;
+}
+.header ul li {
+  display: inline;
+}
+
+/* class="dancerinfo" */
+.dancerinfo {
+  display: flex;
+}
+.subtitle {
+  font-family: "Oleo Script", cursive;
+}
+.footer {
+  background-color: pink;
+}
+.britney {
+font-family: "Krona One", sans-serif;
+}
